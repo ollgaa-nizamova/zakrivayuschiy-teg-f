@@ -1,6 +1,6 @@
 :root {
   --base-font: 'Inter', sans-serif;
-  --accent-font: 'Press Start 2P', sans-serif;
+  --accent-font: 'Press Start 2P', fantasy;
   --font-style: normal;
   --card-text-weight: 410;
   --card-title-weight: 715;
@@ -30,5 +30,5 @@
   --padding-block-size: clamp(7.625rem, 7.4489rem + 0.7512vw, 8.125rem);
   --inline-size: clamp(23.4375rem, 16.2852rem + 30.5164vw, 43.75rem);
   --card-img-height: clamp(23.1875rem, 16.0352rem + 30.5164vw, 43.5rem);
-  --header-margin-block: 98px;
+  --header-margin-block: 99px;
 }
